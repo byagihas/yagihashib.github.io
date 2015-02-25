@@ -8,6 +8,7 @@ body{
 }
 .container .col-lg-12{
   font-size: 1em;
+  font-famly: Helvetica;
   opacity: .8;
 }
 .container .col-lg-12 img{
