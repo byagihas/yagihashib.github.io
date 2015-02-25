@@ -17,3 +17,8 @@ body{
 .container .col-lg-12 li{
   list-style-type: square;
 }
+
+.container .col-lg-12 a{
+
+  font-size: 1.5em;
+}
