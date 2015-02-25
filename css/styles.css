@@ -1,22 +1,18 @@
 body{
-
+  background-color: #A8A7A7;
 }
-
-
 .container{
   background-color: gray;
   color: white;
   padding: 4em;
 }
-
-.container-fluid .col-lg-12{
-  font-size: 1.5em;
+.container .col-lg-12{
+  font-size: 1em;
+  opacity: .8;
+}
+.container .col-lg-12 img{
 }
 
-h1{
-
-}
-
-h3{
-
+.container .col-lg-12 li{
+  list-style-type: square;
 }
