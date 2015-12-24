@@ -1,0 +1,33 @@
+body{
+  background-color: #A8A7A7;
+}
+.container{
+  background-color: gray;
+  color: white;
+  padding: 4em;
+}
+.container .col-lg-12{
+  font-size: 1em;
+  font-famly: Helvetica;
+}
+.container .col-lg-12 img{
+}
+.container .col-lg-12 li{
+  list-style-type: square;
+}
+.container .col-lg-12 a{
+  background-color: black;
+  color: white;
+  text-decoration: none;
+  font-size: 1.5em;
+  padding: .5em;
+}
+.container .col-lg-12 a:hover{
+  background-color: gray;
+}
+.container .col-lg-12 .verytop{
+  background-color: black;
+  padding: 2em;
+  border-radius: 4px;
+}
+
