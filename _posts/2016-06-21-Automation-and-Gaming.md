@@ -1,6 +1,6 @@
 layout: post
 title:  "Welcome Post"
-date:   2016-06-21 21:35:56 -0600
+date:   2016-06-21 21:05:55 -0600
 categories: jekyll update
 ---
 Welcome to my empty Jekyll blog!
