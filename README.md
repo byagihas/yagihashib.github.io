@@ -1,2 +1,2 @@
 # yagihashib.github.io
-Website
+My Planned Jekyll Site
